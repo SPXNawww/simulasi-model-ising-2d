@@ -1,0 +1,12 @@
+## Penggunaan AI
+
+Pada pengerjaan case-based ini, kami menggunakan:
+
+1. ChatGPT (GPT-5.5) untuk membantu menjelaskan konsep Model Ising 2D, menyusun struktur notebook, memvalidasi implementasi algoritma Metropolis, serta membantu penyusunan analisis ilmiah pada setiap studi kasus.
+
+## Penggunaan Aplikasi
+
+1. Jupyter Notebook sebagai lingkungan pengembangan dan eksekusi kode Python.
+2. Python dengan pustaka NumPy untuk komputasi numerik.
+3. Matplotlib untuk visualisasi konfigurasi spin dan kurva magnetisasi.
+4. GitHub dan GitHub Pages untuk publikasi hasil simulasi dalam bentuk website.
